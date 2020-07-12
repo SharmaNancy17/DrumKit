@@ -17,13 +17,13 @@ footer {
 }
 
 .w {
-  background-image: url(/images/crash.png);
+  background-image: url(images/crash.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .a {
-  background-image: url(/images/kick.png);
+  background-image: url(images/kick.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
